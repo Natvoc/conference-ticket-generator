@@ -34,6 +34,31 @@ body{
     text-align: center;
    
 }
+.space-form{
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 2em;
+    
+}
+form{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+form p{
+    font-size: 1.5em;
+    text-align: left;
+}
+.space-form input{
+    width: 90%;
+    height: 10em;
+  
+}
 
 
 /*Media Querie para Tablets*/
