@@ -50,14 +50,19 @@ form p{
     font-size: 1.5em;
     text-align: left;
 }
-.space-form input{
-    width: 90%;
+.upload{
     height: 10em;
+    width: 90%;
+}
+.space-form .input-text{
+    width: 90%;
+    height: 3em;
+   
   
 }
 
 .upload{
-    background-color: hsl(248, 70%, 10%);
+    background-color: hsla(250, 2%, 52%, 20%);
     border: 1px dashed hsl(0, 0%, 100%);
     background-image: url(../images/icon-upload.svg);
     background-repeat: no-repeat;
